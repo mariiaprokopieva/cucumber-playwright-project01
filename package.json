@@ -1,0 +1,22 @@
+{
+  "name": "cucumber-playwright-project01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.1.0",
+    "@cucumber/pretty-formatter": "^1.0.1",
+    "@eslint/js": "^9.16.0",
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.1",
+    "eslint": "^9.16.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.13.0",
+    "prettier": "^3.4.2"
+  }
+}
